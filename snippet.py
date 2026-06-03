@@ -1,0 +1,1 @@
+# test snippet\ndef transform(data):\n    return data.upper()
